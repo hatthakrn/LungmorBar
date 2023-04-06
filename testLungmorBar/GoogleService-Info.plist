@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>498832699305-0b3vnv37qh6f2gr98jfb82ahjg39nd1q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.498832699305-0b3vnv37qh6f2gr98jfb82ahjg39nd1q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBb703xrVIn1NCd-Z3KKy84B4lNRVCHl0I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>498832699305</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>th.ac.su.LungMorBar.testLungmorBar</string>
+	<key>PROJECT_ID</key>
+	<string>lungmorbar</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lungmorbar.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:498832699305:ios:5a14bc244d64b8fe59deb8</string>
+</dict>
+</plist>
